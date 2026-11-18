@@ -18,14 +18,13 @@
 
 ### 👋 Tentang Saya
 
-```ts
-const eracoder = {
-  role: "Full-stack Engineer",
-  location: "Indonesia 🇮🇩",
-  focus: ["Web Apps", "Mobile Apps", "Serverless on Cloudflare"],
-  currently: "Membangun tools & SaaS yang cepat, murah, dan scalable",
-};
-```
+Halo! Saya **Full-stack Engineer** dari **Indonesia 🇮🇩** di balik [eraCoder](https://eracoder.com) — membantu bisnis lewat solusi aplikasi **Web** dan **Mobile**.
+
+- 🌐 Membangun web app & SaaS dengan **TypeScript, React, dan Vue**
+- 📱 Mengembangkan aplikasi **Android (Kotlin)** dan **Flutter**
+- ☁️ Senang membuat layanan **serverless di Cloudflare** (Workers, Pages) + Supabase
+- 🎯 Fokus saat ini: tools yang **cepat, hemat biaya, dan mudah di-scale**
+- 📫 Ingin kerja sama? Hubungi **hello@eracoder.com**
 
 ### 🧰 Tech Stack
 
