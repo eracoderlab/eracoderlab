@@ -18,7 +18,7 @@
 
 ### 👋 Tentang Saya
 
-Halo! Saya **Full-stack Engineer** dari **Indonesia 🇮🇩** di balik [eraCoder_](https://eracoder.com), membantu bisnis lewat solusi aplikasi **Web** dan **Mobile**.
+Halo! Saya **Full-stack Engineer** dari **Indonesia 🇮🇩** di balik [eraCoder_](https://eracoder.com) - membantu bisnis lewat solusi aplikasi **Web** dan **Mobile**.
 
 - 🌐 Membangun web app & SaaS dengan **TypeScript, React, dan Vue**
 - 📱 Mengembangkan aplikasi **Android (Kotlin)** dan **Flutter**
